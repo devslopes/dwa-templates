@@ -22,6 +22,10 @@ PS: please make sure to read the document in the preview mode.
 
   `Your answer goes here…`
 
+- [ What do you think is a reason of the issue? ]
+
+  `Your answer goes here…`
+
 - [ Which environment did you use to work on the project/assignment/code? ]
 
   - VSCode  
