@@ -1,6 +1,6 @@
 # ASKING A CODE QUESTION TEMPLATE
 
-Please make sure to answer EVERY question in this questionnaire honestly and correctly, following the guidelines. This questionnaire was designed to help you use the available problem solving tool super efficiently to learn to resolve your questions fast and handle most of the problems on your own quickly VS waiting for help.
+Please make sure to answer EVERY question in this questionnaire honestly and correctly, following the guidelines. This questionnaire was designed to help you use the available problem solving tools super efficiently to learn to resolve your questions fast and handle most of the problems on your own quickly VS waiting for help.
 
 PS: please make sure to read the document in the preview mode.
 
@@ -12,13 +12,13 @@ PS: please make sure to read the document in the preview mode.
 
 ### Post Message
 
->You can copy all the question in this section and paste them into the Discord post message window.
+>You can copy all the questions in this section and paste them into the Discord post message window.
 
-- [ Did you make a search in the old questions to find the same problem? (Y/N) ]
+- [ Did you make a search trough the old questions (posts) to find the same problem? (Y/N) ]
 
   `Your answer goes here…`
 
-- [ Description of the problem ]
+- [ Describe of the problem ]
 
   `Your answer goes here…`
 
@@ -34,7 +34,7 @@ PS: please make sure to read the document in the preview mode.
 
   `Your answer goes here…`
 
-- [ Did you check spelling of attributes, elements, methods, arguments? Y/N ]
+- [ Did you check spelling of attributes, elements, methods, arguments? (Y/N) ]
 
   `Your answer goes here…`
 
@@ -42,11 +42,11 @@ PS: please make sure to read the document in the preview mode.
 
   `Your answer goes here…`
 
-- [ Did you fix the validation errors? Y/N ]
+- [ Did you fix the validation errors? (Y/N) ]
 
   `Your answer goes here…`
 
-- [ Did you visit the element/method/topic documentation page? Yes/No ]
+- [ Did you visit the element/method/topic documentation page? (Y/N) ]
 
   `Your answer goes here…`
 
@@ -54,11 +54,7 @@ PS: please make sure to read the document in the preview mode.
 
   `Your answer goes here…`
 
-- [ Did you try prompting google? Yes/No ]
-
-  `Your answer goes here…`
-
-- [ What did you try to fix in your code so far? ]
+- [ Did you try prompting google? (Y/N) ]
 
   `Your answer goes here…`
 
@@ -70,11 +66,15 @@ PS: please make sure to read the document in the preview mode.
 
   `Your answer goes here…`
 
-- [ What did you try? What was the expected result? What was the result in fact? Attach screenshots of the result you got for each item of what you have tried. ]
+- [ What did you try? What was the expected result? What was the result in fact? Add code snippets of the changes you tried and attach screenshots of the result you got for each item of what you have tried. ]
 
   `Your answer goes here…`
 
 - [ Did you join the mentor’s call to get help on that issue? (Y/N) ]
+
+  `Your answer goes here…`
+
+- [ Share your code professionally (GitHub repo URL, StackBlitz project URL, Code snippet with syntax highlighting) ]
 
   `Your answer goes here…`
 
