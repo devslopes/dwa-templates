@@ -12,7 +12,7 @@ PS: please make sure to read the document in the preview mode.
 
 ### Post Message
 
->You can copy all the questions in this section and paste them into the Discord post message window.
+> You can copy all the questions in this section and paste them into the Discord post message window.
 
 - [ Did you make a search trough the old questions (posts) to find the same problem? (Y/N) ]
 
@@ -62,15 +62,15 @@ PS: please make sure to read the document in the preview mode.
 
   `Your answer goes here…`
 
-- [ Which documentation/stackoverflow/other resource taught you to try that? (provide a link to the documentation page or the stackoverflow thread) ]
-
-  `Your answer goes here…`
-
 - [ Did you try prompting ChatGPT/Any other AI? What was the prompt you used? ]
 
   `Your answer goes here…`
 
 - [ What did you try? What was the expected result? What was the result in fact? Add code snippets of the changes you tried and attach screenshots of the result you got for each item of what you have tried. ]
+
+  `Your answer goes here…`
+
+- [ Which documentation/stackoverflow/other resource taught you to try that? (provide a link to the documentation page or the stackoverflow thread) ]
 
   `Your answer goes here…`
 
@@ -259,25 +259,6 @@ PS: please make sure to read the document in the preview mode.
   - ❌ Bad: Yes. My prompt was: "What is wrong in this code?"
   - ✅ Good: Yes. My prompt was: "What could be possible reasons for the "a" anchor HTML Element to NOT let me get redirected to a proper destination from the href attribute value when the link is clicked."
 
->[ Which documentation/stackoverflow/other resource taught you to try that? (provide a link to the documentation page or the stackoverflow thread) ]
-
-  If you didn’t follow any documentation, didn’t make the google search and didn’t try asking AI you will be asked to go and try each of those methods of problem solving first.
-
-  Examples:
-
-  - ❌ Bad: Empty (no answer)
-  - ❌ Bad: No
-  - ❌ Bad: Yes (single word with no context)
-  - ✅ Good: 
-
-  MDN: [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
-
-  Stack Overflow: [https://stackoverflow.com/questions/27131773/my-links-arent-working-should-be-simple-fix](https://stackoverflow.com/questions/27131773/my-links-arent-working-should-be-simple-fix)
-
-  Another resource: [https://www.pedalo.co.uk/broken-links/#:~:text=Links%20may%20be%20broken%20for,behind%20a%20password%20or%20firewall).](https://www.pedalo.co.uk/broken-links/#:~:text=Links%20may%20be%20broken%20for,behind%20a%20password%20or%20firewall)
-
-  I also asked ChatGPT for help with the following prompt: "What could be possible reasons for the "a" anchor HTML Element to NOT let me get redirected to a proper destination from the href attribute value when the link is clicked."
-
 > [ What did you try? What was the expected result? What was the result in fact? Attach screenshots of the result you got for each item of what you have tried. ]
 
   Please add screenshots or a loom video that will help the mentor/ community member reproduce the same error on their side. Don’t use the screenshots of the code. Share your code professionally in the proper section of the questionnaire.
@@ -303,6 +284,25 @@ PS: please make sure to read the document in the preview mode.
     ```html
     <a href="https:/some-project-url.com">
     ```
+
+> [ Which documentation/stackoverflow/other resource taught you to try that? (provide a link to the documentation page or the stackoverflow thread) ]
+
+  If you didn’t follow any documentation, didn’t make the google search and didn’t try asking AI you will be asked to go and try each of those methods of problem solving first.
+
+  Examples:
+
+  - ❌ Bad: Empty (no answer)
+  - ❌ Bad: No
+  - ❌ Bad: Yes (single word with no context)
+  - ✅ Good: 
+
+  MDN: [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+
+  Stack Overflow: [https://stackoverflow.com/questions/27131773/my-links-arent-working-should-be-simple-fix](https://stackoverflow.com/questions/27131773/my-links-arent-working-should-be-simple-fix)
+
+  Another resource: [https://www.pedalo.co.uk/broken-links/#:~:text=Links%20may%20be%20broken%20for,behind%20a%20password%20or%20firewall).](https://www.pedalo.co.uk/broken-links/#:~:text=Links%20may%20be%20broken%20for,behind%20a%20password%20or%20firewall)
+
+  I also asked ChatGPT for help with the following prompt: "What could be possible reasons for the "a" anchor HTML Element to NOT let me get redirected to a proper destination from the href attribute value when the link is clicked."
 
 > [ Did you join the mentor’s call to get help on that issue? (Y/N) ]
 
