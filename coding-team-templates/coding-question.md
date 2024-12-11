@@ -24,9 +24,9 @@ PS: please make sure to read the document in the preview mode.
 
 - [ Which environment did you use to work on the project/assignment/code? ]
 
-  - VSCode
-  - Codepen
-  - Notepad
+  - VSCode  
+  - Codepen  
+  - Notepad  
 
   `Remove those that don't apply...`
 
@@ -107,7 +107,7 @@ Examples:
 
   Yes. I didn't find any posts that cover the issue I have.
 
-- ✅Good: 
+- ✅ Good: 
   
   Yes.
 
@@ -159,9 +159,9 @@ Examples:
 
 > [ Which environment did you use to work on the project/assignment/code? ]
 
-VSCode
-Codepen
-Notepad
+VSCode  
+Codepen  
+Notepad  
 
 Remove the items that you DID NOT use. If your answer is NOT VSCode you will be asked to move your code to VSCode and try to resolve your issue there first using available helpers and extensions.
 
