@@ -1,16 +1,17 @@
 # ASKING A CODE QUESTION TEMPLATE
 
-Asking a coding question professionally means following this criteria:
+Asking a coding question professionally means adhering to these criteria:
 
 1. Clear and Descriptive Post Title
 2. Development Environment Parameters
-3. Resources Consulted
-4. Concise Problem Description and Relevant Context
-5. Hypothesis or Observations
-6. Validation, Debugging Steps and Efforts to Resolve
-7. Reproducible Code
+3. Validation and Debugging Steps
+4. Resources Consulted
+5. Concise Problem Description and Relevant Context
+6. Hypothesis or Observations
+7. Efforts to Resolve
+8. Reproducible Code
 
-In order to meet that criteria we have developed a template or a questionnaire that you can copy and paste into the Discord Post you create and follow the TEMPLATE Requirements. This questionnaire was designed to help you use the available problem solving tools super efficiently to learn to resolve your questions fast and handle most of the problems on your own quickly.
+To meet these criteria, we’ve created a template or questionnaire that you can copy and paste into your Discord post and follow the TEMPLATE requirements. This questionnaire is designed to help you use available problem-solving tools more efficiently, enabling you to resolve your questions quickly and handle most issues on your own effectively.
 
 ## TEMPLATE to copy
 
@@ -30,7 +31,21 @@ In order to meet that criteria we have developed a template or a questionnaire t
 
   `Remove those that don't apply...`
 
-- [ Do you have the recommended set of VSCode extensions installed? (Y/N)]
+- [ Do you have the recommended set of VSCode extensions installed? (Y/N) ]
+
+  `Your answer goes here…`
+
+#### Validation and Debugging Steps
+
+- [ Did you check spelling of attributes, elements, methods, arguments? (Y/N) ]
+
+  `Your answer goes here…`
+
+- [ Did you check the code in the VSCode IDE W3C Web validator extension or the online W3C validator? (Y/N) ]
+
+  `Your answer goes here…`
+
+- [ Did you fix the validation errors? (Y/N) ]
 
   `Your answer goes here…`
 
@@ -48,7 +63,7 @@ In order to meet that criteria we have developed a template or a questionnaire t
 
   `Your answer goes here…`
 
-- [ Did you join the mentor’s call to get help on that issue? ]
+- [ Did you join the mentor’s call to get help on that issue? (Y/N) ]
 
   `Your answer goes here…`
 
@@ -60,23 +75,11 @@ In order to meet that criteria we have developed a template or a questionnaire t
 
 #### Hypothesis or Observations
 
-- [ What do you think is a reason of the issue? ]
+- [ What do you think might be a reason of the issue? ]
 
   `Your answer goes here…`
 
 #### Validation, Debugging Steps and Efforts to Resolve
-
-- [ Did you check spelling of attributes, elements, methods, arguments? ]
-
-  `Your answer goes here…`
-
-- [ Did you check the code in the VSCode IDE W3C Web validator extension or the online W3C validator? Y/N. ]
-
-  `Your answer goes here…`
-
-- [ Did you fix the validation errors? (Y/N) ]
-
-  `Your answer goes here…`
 
 - [ What did you try to change in your code to resolve the problem? What was the expected result? What was the result in fact? Add code snippets of the changes you tried and attach screenshots of the result you got for each item of what you have tried. ]
 
@@ -93,6 +96,8 @@ In order to meet that criteria we have developed a template or a questionnaire t
   `Your answer goes here…`
 
 ### TEMPLATE Requirements and examples
+
+!!! HINT: Even if the question is a Yes/No one, always try to add relative context to help others help you better.
 
 #### Clear and Descriptive Post Title
 
@@ -121,7 +126,7 @@ Examples:
 - ❌ Bad: Notepad (or any other default text editor)
 - ✅ Good: VSCode (or any other local IDE set to work with HTML, CSS, JS, in other words dedicated to web development)
 
-> [ Do you have the recommended set of extensions installed? (Y/N) ]
+> [ Do you have the recommended set of VSCode extensions installed? (Y/N) ]
 
 HTML&CSS issues: If your answer to this question is NO you will be asked to install the recommended set of tools and use the helpers to use them and try to resolve your issue first.
 
@@ -131,8 +136,41 @@ Examples:
 
 - ❌ Bad: Empty (no answer)
 - ❌ Bad: No
-- ❌ Bad: Yes (single word with no context)
+- ❌ Good: Yes (single word with no context)
 - ✅ Good: Yes. I have all the recommended VSCode extensions installed, including the W3C Web validator extension.
+
+### Validation and Debugging Steps
+
+> [ Did you check spelling of attributes, elements, methods, arguments? (Y/N) ]
+
+If your answer to this question is NO you will be asked to check the spelling first. Try to utilize the “Code Spell Checker” VSCode extension.
+
+Examples:
+
+- ❌ Bad: Empty (no answer)
+- ❌ Bad: No
+- ❌ Bad: Yes (single word with no context)
+- ✅ Good: Yes. I have no spelling errors in my code, checked both by the "code spell checker extension" and the "W3C Web Validator" extension.
+
+> [ Did you check the code in the VSCode IDE W3C Web validator extension or the online W3C validator? (Y/N) ]
+
+HTML&CSS issues: If your answer to this question is NO you will be asked to check the code in the validator first.
+
+Examples
+
+- ❌ Bad: Empty (no answer)
+- ❌ Bad: No
+- ❌ Bad: Yes (single word with no context)
+- ✅ Good: Yes. I had two issues highlighted with the "W3C validator", I fixed them all now I don't have any errors validating the document but it didn't solve my issue.
+
+> [ Did you fix the validation errors? (Y/N) ]
+
+HTML&CSS issues: If your answer to this question is NO you will be asked to fix the errors first.
+
+- ❌ Bad: Empty (no answer)
+- ❌ Bad: No
+- ❌ Bad: Yes (single word with no context)
+- ✅ Good: Yes. The W3C Web validator doesn't show me any errors when validating the document.
 
 #### Resources Consulted
 
@@ -185,11 +223,11 @@ Examples:
 - ❌ Bad: Yes, But I was late, so there was no time for the mentor to help me.
 - ❌ Bad: Yes, but I wasn't confident enough to as my stupid question.
 - ❌ Bad: Yes, but there were so many questions and I was too shy to push mine in the middle or to type my question in the zoom chat.
-- ✅ Good: Yes, I joined <mentor_name> call and we discussed the way I can resolve My issue was to check the spelling of my attributes, I checked them all and they are all correct, but it didn't help me to resolve the issue.
+- ✅ Good: Yes, I joined <mentor_name>'s call and we discussed the way I can resolve my issue which was to check the spelling of my attributes. I checked them all and they are all correct, but it didn't help me to resolve the issue.
 
 #### Concise Problem Description and Relevant Context
 
-> [ Description of the problem ]
+> [ Describe the problem clearly ]
 
 Your task in this section is to explain what is going against your expectations. We strongly recommend recording a loom video (or any other screen recording service that let you share the video URL) demonstrating the circumstances the error happens under. This will let mentors and community members reproduce the problem to help you faster.
 
@@ -219,7 +257,7 @@ Examples:
 
 #### Hypothesis or Observations
 
-> [ What do you think is a reason of the issue? ]
+> [ What do you think might be a reason of the issue? ]
 
 If you don't know make guesses and assumptions. Do your best to test them before you continue. One of them might be a correct one to help you resolve the issue.
 
@@ -234,40 +272,9 @@ Examples:
 
   I think since the W3C Web validator tool doesn't show any errors, which means that my HTML is all valid the issue might only be in the value of the href attribute or another missing attribute, but I don't see any issue there. The href attribute is the only one that sets the path for the browser to follow once clicked.
 
-#### Validation, Debugging Steps and Efforts to Resolve
+#### Efforts to Resolve
 
-> [ Did you check spelling of attributes, elements, methods, arguments? Y/N ]
-
-If your answer to this question is NO you will be asked to check the spelling first. Try to utilize the “Code Spell Checker” VSCode extension.
-
-Examples:
-
-- ❌ Bad: Empty (no answer)
-- ❌ Bad: No
-- ❌ Bad: Yes (single word with no context)
-- ✅ Good: Yes. I have no spelling errors in my code, checked both by the "code spell checker extension" and the "W3C Web Validator" extension.
-
-> [ Did you check the code in the VSCode IDE W3C Web validator extension or the online W3C validator? Y/N. ]
-
-HTML&CSS issues: If your answer to this question is NO you will be asked to check the code in the validator first.
-
-Examples
-
-- ❌ Bad: Empty (no answer)
-- ❌ Bad: No
-- ❌ Bad: Yes (single word with no context)
-- ✅ Good: Yes. I had two issues highlighted with the "W3C validator", I fixed them all now I don't have any errors validating the document but it didn't solve my issue.
-
-> [ Did you fix the validation errors? Y/N ]
-
-HTML&CSS issues: If your answer to this question is NO you will be asked to fix the errors first.
-
-- ❌ Bad: Empty (no answer)
-- ❌ Bad: No
-- ❌ Bad: Yes (single word with no context)
-- ✅ Good: Yes. The W3C Web validator doesn't show me any errors when validating the document.
-
-> [ What did you try? What was the expected result? What was the result in fact? Attach screenshots of the result you got for each item of what you have tried. ]
+> [ What did you try to change in your code to resolve the problem? What was the expected result? What was the result in fact? Add code snippets of the changes you tried and attach screenshots of the result you got for each item of what you have tried. ]
 
 Please add screenshots or a loom video that will help the mentor/ community member reproduce the same error on their side. Don’t use the screenshots of the code. Share your code professionally in the proper section of the questionnaire.
 
