@@ -1,117 +1,112 @@
 # ASKING A CODE QUESTION TEMPLATE
 
-Asking a coding question professionally means adhering to these criteria:
+Asking a coding question professionally means adhering to the following steps:
 
-1. Clear and Descriptive Post Title
-2. Development Environment Parameters
-3. Validation and Debugging Steps
-4. Resources Consulted
-5. Concise Problem Description and Relevant Context
-6. Hypothesis or Observations
-7. Efforts to Resolve
-8. Reproducible Code
+1. Use a Clear and Descriptive Post Title
+2. Confirming the Development Environment You Are Using
+3. Basic Validation and Debugging Checks
+4. What Resources Have You Used Already?
+5. Structure Your Question
+6. Show Us Your Code
 
-To meet these criteria, we’ve created a template or questionnaire that you can copy and paste into your Discord post and follow the TEMPLATE requirements. This questionnaire is designed to help you use available problem-solving tools more efficiently, enabling you to resolve your questions quickly and handle most issues on your own effectively.
+To follow those steps, we’ve created a template or questionnaire that you can copy and paste into your Discord post and follow the TEMPLATE requirements. This questionnaire is designed to help you use available problem-solving tools more efficiently, enabling you to resolve your questions quickly and handle most issues on your own effectively.
 
 ## TEMPLATE to copy
 
-#### Clear and Descriptive Post Title
+1. Use a Clear and Descriptive Post Title
 
-- [ Start the post title with the assignment name and describe the problem using professional terms that correspond to your issue ]
+   Start the post title with the ASSIGNMENT NAME and a short, professional description of the problem.
 
-  `Your answer goes here…`
+   `Your answer goes here…`
 
-#### Development Environment Parameters
+2. Confirming the Development Environment You Are Using
 
-- [ Which environment did you use to work on the project/assignment/code? ]
+   Which environment did you use to work on the project/assignment/code?
 
-  - VSCode
-  - Codepen
-  - Notepad
+   `Remove those that don't apply...`
 
-  `Remove those that don't apply...`
+   - VSCode
+   - Codepen
+   - Notepad
 
-- [ Do you have the recommended set of VSCode extensions installed? (Y/N) ]
+3. Basic Validation and Debugging Checks
 
-  `Your answer goes here…`
+   Answer YES or NO to the following:
 
-#### Validation and Debugging Steps
+   - Did you check spelling of attributes, elements, methods, arguments? (Y/N):
+   - Do you have the recommended set of VSCode extensions installed? (Y/N):
+   - Did you check the code in the VSCode IDE W3C Web validator extension or the online W3C validator? (Y/N):
+   - Did you fix the validation errors? (Y/N):
 
-- [ Did you check spelling of attributes, elements, methods, arguments? (Y/N) ]
+4. What Resources Have You Used Already?
 
-  `Your answer goes here…`
+   - Did you search through past questions (posts) in the channel to find the same problem? (Provide links to the threads that are similar to your issue)
 
-- [ Did you check the code in the VSCode IDE W3C Web validator extension or the online W3C validator? (Y/N) ]
+     `Your answer here…`
 
-  `Your answer goes here…`
+   - Did you visit the element/method/topic documentation page? (Provide a link to specific documentation page)
 
-- [ Did you fix the validation errors? (Y/N) ]
+     `Your answer here…`
 
-  `Your answer goes here…`
+   - Did you try prompting google? What did you find out? (Provide links to pages you found in google that include the ways to solve your problem)
 
-#### Resources Consulted
+     `Your answer here…`
 
-- [ Did you make a search through the old questions (posts) to find the same problem? (Provide links to the threads that are similar to your issue) ]
+   - Did you join the mentor’s call to get help on that issue? (Y/N)
 
-  `Your answer goes here…`
+     `Your answer here…`
 
-- [ Did you visit the element/method/topic documentation page? (Provide a link to specific documentation page) ]
+5. Structure Your Question
 
-  `Your answer goes here…`
+   - Identify the Goal/What You Want to Happen
 
-- [ Did you try prompting google? What did you find out? (Provide links to pages you found in google that include the ways to solve your problem) ]
+     Briefly explain the desired behavior and outcome you expect to happen.
 
-  `Your answer goes here…`
+     `Your answer here…`
 
-- [ Did you join the mentor’s call to get help on that issue? (Y/N) ]
+   - Identify the Problem or Obstacle You are Facing
 
-  `Your answer goes here…`
+     Briefly explain what is happening instead of what you want to happen.
 
-#### Concise Problem Description and Relevant Context
+     `Your answer here…`
 
-- [ Describe the problem clearly ]
+   - What Do You Think the Root Cause of the Blocker/Problem Is?
 
-  `Your answer goes here…`
+     Share an educated guess as to why you think the problem is occurring.
 
-#### Hypothesis or Observations
+     `Your answer here…`
 
-- [ What do you think might be a reason of the issue? ]
+   - What Potential Solutions Have You Tried? What Was The Result?
 
-  `Your answer goes here…`
+     List any solutions you have tried and their result. Did they partially fix the problem, create new bugs, or not work at all?
 
-#### Validation, Debugging Steps and Efforts to Resolve
+     `Your answer here…`
 
-- [ What did you try to change in your code to resolve the problem? What was the expected result? What was the result in fact? Add code snippets of the changes you tried and attach screenshots of the result you got for each item of what you have tried. ]
+6. Show Us Your Code
 
-  `Your answer goes here…`
+   Share your code professionally (GitHub repo URL, StackBlitz project URL, Code snippet with syntax highlighting.)
 
-- [ Which documentation/stackoverflow/other resource taught you to try that? (provide a link to the documentation page or the stackoverflow thread) ]
-
-  `Your answer goes here…`
-
-#### Reproducible Code
-
-- [ Share your code professionally (GitHub repo URL, StackBlitz project URL, Code snippet with syntax highlighting) ]
-
-  `Your answer goes here…`
+   `Your answer here…`
 
 ### TEMPLATE Requirements and examples
 
 !!! HINT: Even if the question is a Yes/No one, always try to add relative context to help others help you better.
 
-#### Clear and Descriptive Post Title
+#### Use a Clear and Descriptive Post Title
 
-> [ Start the post title with the assignment name and describe the problem using professional terms that correspond to your issue ]
+> [ Start the post title with the ASSIGNMENT NAME and a short, professional description of the problem. ]
 
 Examples:
 
 - ❌ Bad: "My links don't work!"
 - ❌ Bad: "MyTube link don't work"
-- ✅ Good: "MyTube HTML: The "a" anchor HTML Element doesn’t redirect me to a proper destination from the href attribute value when the link is clicked."
+- ✅ Great: "MyTube HTML: The "a" anchor HTML Element doesn’t redirect me to a proper destination from the href attribute value when the link is clicked."
 
-#### Development Environment Parameters
+#### Confirming the Development Environment You Are Using
 
 > [ Which environment did you use to work on the project/assignment/code? ]
+
+`Remove those that don't apply...`
 
 VSCode  
 Codepen  
@@ -124,7 +119,22 @@ Examples:
 - ❌ Bad: Empty (no answer)
 - ❌ Bad: Codepen (or any other online IDE)
 - ❌ Bad: Notepad (or any other default text editor)
-- ✅ Good: VSCode (or any other local IDE set to work with HTML, CSS, JS, in other words dedicated to web development)
+- ✅ Great: VSCode (or any other local IDE set to work with HTML, CSS, JS, in other words dedicated to web development)
+
+#### Basic Validation and Debugging Checks
+
+Answer YES or NO to the following:
+
+> Did you check spelling of attributes, elements, methods, arguments? (Y/N)
+
+If your answer to this question is NO you will be asked to check the spelling first. Try to utilize the “Code Spell Checker” VSCode extension.
+
+Examples:
+
+- ❌ Bad: Empty (no answer)
+- ❌ Bad: No
+- ✅ Not Bad: Yes (single word with no context)
+- ✅ Great: Yes. I have no spelling errors in my code, checked both by the "code spell checker extension" and the "W3C Web Validator" extension.
 
 > [ Do you have the recommended set of VSCode extensions installed? (Y/N) ]
 
@@ -136,21 +146,8 @@ Examples:
 
 - ❌ Bad: Empty (no answer)
 - ❌ Bad: No
-- ❌ Good: Yes (single word with no context)
-- ✅ Good: Yes. I have all the recommended VSCode extensions installed, including the W3C Web validator extension.
-
-### Validation and Debugging Steps
-
-> [ Did you check spelling of attributes, elements, methods, arguments? (Y/N) ]
-
-If your answer to this question is NO you will be asked to check the spelling first. Try to utilize the “Code Spell Checker” VSCode extension.
-
-Examples:
-
-- ❌ Bad: Empty (no answer)
-- ❌ Bad: No
-- ❌ Bad: Yes (single word with no context)
-- ✅ Good: Yes. I have no spelling errors in my code, checked both by the "code spell checker extension" and the "W3C Web Validator" extension.
+- ✅ Not Bad: Yes (single word with no context)
+- ✅ Great: Yes. I have all the recommended VSCode extensions installed, including the W3C Web validator extension.
 
 > [ Did you check the code in the VSCode IDE W3C Web validator extension or the online W3C validator? (Y/N) ]
 
@@ -160,8 +157,8 @@ Examples
 
 - ❌ Bad: Empty (no answer)
 - ❌ Bad: No
-- ❌ Bad: Yes (single word with no context)
-- ✅ Good: Yes. I had two issues highlighted with the "W3C validator", I fixed them all now I don't have any errors validating the document but it didn't solve my issue.
+- ✅ Not Bad: Yes (single word with no context)
+- ✅ Great: Yes. I had two issues highlighted with the "W3C validator", I fixed them all now I don't have any errors validating the document but it didn't solve my issue.
 
 > [ Did you fix the validation errors? (Y/N) ]
 
@@ -169,14 +166,14 @@ HTML&CSS issues: If your answer to this question is NO you will be asked to fix 
 
 - ❌ Bad: Empty (no answer)
 - ❌ Bad: No
-- ❌ Bad: Yes (single word with no context)
-- ✅ Good: Yes. The W3C Web validator doesn't show me any errors when validating the document.
+- ✅ Not Bad: Yes (single word with no context)
+- ✅ Great: Yes. The W3C Web validator doesn't show me any errors when validating the document.
 
-#### Resources Consulted
+#### What Resources Have You Used Already?
 
-> [ Did you make a search through the old questions (posts) to find the same problem? (Provide links to the threads that are similar to your issue) ]
+> [ Did you search through past questions (posts) in the channel to find the same problem? (Provide links to the threads that are similar to your issue) ]
 
-If your answer is YES, Please provide the link to the threads you read through in your answer or the one that helps that touches your issue but might not include the answer to your problem or the answer didn't help to resolve the question.
+If your answer is YES, Please provide the link/links to the threads you read through in your answer or the one that helps that touches your issue but might not include the answer to your problem or the answer didn't help to resolve the question.
 
 If your answer to this question is NO you will be asked to search through the older posts. If the question you asked is being repeated it might be deleted by a mentor.
 
@@ -189,7 +186,7 @@ Examples:
 
   Yes. I didn't find any posts that cover the issue I have.
 
-- ✅ Good:
+- ✅ Great:
 
   Yes.
 
@@ -202,7 +199,7 @@ If your answer to this question is NO you will be asked to find a proper documen
 - ❌ Bad: Empty (no answer)
 - ❌ Bad: No
 - ❌ Bad: Yes (single word with no context)
-- ✅ Good: Yes. I read through the "Anchor" element documentation page at MDN: [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+- ✅ Great: Yes. I read through the "Anchor" element documentation page at MDN: [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
 > [ Did you try prompting google? What did you find out? (Provide links to pages you found in google that include the ways to solve your problem) ]
 
@@ -211,7 +208,7 @@ If your answer to this question is NO you will be asked make google search first
 - ❌ Bad: Empty (no answer)
 - ❌ Bad: No
 - ❌ Bad: Yes. I visited stackoverflow and some other resources.
-- ✅ Good: Yes. I think the solution of my problem might be discussed in this Stackoverflow thread, but neither og the solutions on this page helped me to solve the issue: [https://stackoverflow.com/questions/27131773/my-links-arent-working-should-be-simple-fix](https://stackoverflow.com/questions/27131773/my-links-arent-working-should-be-simple-fix)
+- ✅ Great: Yes. I think the solution of my problem might be discussed in this Stackoverflow thread, but neither og the solutions on this page helped me to solve the issue: [https://stackoverflow.com/questions/27131773/my-links-arent-working-should-be-simple-fix](https://stackoverflow.com/questions/27131773/my-links-arent-working-should-be-simple-fix)
 
 > [ Did you join the mentor’s call to get help on that issue? (Y/N) ]
 
@@ -225,15 +222,39 @@ Examples:
 - ❌ Bad: Yes, but there were so many questions and I was too shy to push mine in the middle or to type my question in the zoom chat.
 - ✅ Good: Yes, I joined <mentor_name>'s call and we discussed the way I can resolve my issue which was to check the spelling of my attributes. I checked them all and they are all correct, but it didn't help me to resolve the issue.
 
-#### Concise Problem Description and Relevant Context
+#### Structure Your Question
 
-> [ Describe the problem clearly ]
+##### Identify the Goal/What You Want to Happen
+
+> [ Briefly explain the desired behavior and outcome you expect to happen. ]
+
+HTML&CSS: Feel free to use screenshots with DETAILED explanation of the expected result or/and the Excalidraw with the expected result visuals.
+
+Excalidraw Url: [Link](https://excalidraw.com/)
+
+Examples:
+
+- ❌ Bad: Empty (no answer)
+- ❌ Bad: Screenshot attached.
+- ✅ Good:
+
+  I want the block that contains the words "My BIO" to take the full width of the Browser viewport.
+
+  Here is the Loom video URL where I explain how I want the block to act.
+
+- ✅ Good:
+
+  I want the block that contains the words "My BIO" to take the full width of the Browser viewport.
+
+  Here is the excalidraw link where I demonstrate how I want the block with "My BIO" act in the Browser.
+
+##### Identify the Problem or Obstacle You are Facing
+
+> [ Briefly explain what is happening instead of what you want to happen. ]
 
 Your task in this section is to explain what is going against your expectations. We strongly recommend recording a loom video (or any other screen recording service that let you share the video URL) demonstrating the circumstances the error happens under. This will let mentors and community members reproduce the problem to help you faster.
 
-HTML&CSS: You can also use screenshots with DETAILED explanation of the expected result vs what is on the screenshot and the Excalidraw with the expected result visuals.
-
-Excalidraw Url: [Link](https://excalidraw.com/)
+Feel free to record a single loom video that cover both the "Identify the Goal/What You Want to Happen" and "Identify the Problem or Obstacle You are Facing" sections.
 
 HTML&CSS issues: Make sure to show the inspector and the rendered version of the problematic part to demonstrate your attempt to resolve the issue with the dev tools of the Browser.
 
@@ -251,15 +272,13 @@ Examples:
 
   The problem is that the block that contains the words "My BIO" won't take the full width of the Browser viewport. It's width only wraps the content instead.
 
-  In the attached screenshot I demonstrate the way my page acts at the moment.
+  In the attached screenshot/excalidraw page I demonstrate the way my page acts at the moment.
 
-  Here is the excalidraw link where I demonstrate how I want the block with "My BIO" act in the Browser.
+##### What Do You Think the Root Cause of the Blocker/Problem Is?
 
-#### Hypothesis or Observations
+> [ Share an educated guess as to why you think the problem is occurring. ]
 
-> [ What do you think might be a reason of the issue? ]
-
-If you don't know make guesses and assumptions. Do your best to test them before you continue. One of them might be a correct one to help you resolve the issue.
+If you don't know the reason, please make guesses and assumptions. Do your best to test them before you continue. One of them might be a correct one to help you resolve the issue.
 
 If you don't add any assumptions or guesses you will be asked to spend some time to think where the issue might be and then update your post.
 
@@ -272,9 +291,9 @@ Examples:
 
   I think since the W3C Web validator tool doesn't show any errors, which means that my HTML is all valid the issue might only be in the value of the href attribute or another missing attribute, but I don't see any issue there. The href attribute is the only one that sets the path for the browser to follow once clicked.
 
-#### Efforts to Resolve
+##### What Potential Solutions Have You Tried? What Was The Result?
 
-> [ What did you try to change in your code to resolve the problem? What was the expected result? What was the result in fact? Add code snippets of the changes you tried and attach screenshots of the result you got for each item of what you have tried. ]
+> [ List any solutions you have tried and their result. Did they partially fix the problem, create new bugs, or not work at all? ]
 
 Please add screenshots or a loom video that will help the mentor/ community member reproduce the same error on their side. Don’t use the screenshots of the code. Share your code professionally in the proper section of the questionnaire.
 
@@ -300,28 +319,9 @@ Examples:
   <a href="https:/some-project-url.com"></a>
   ```
 
-> [ Which documentation/stackoverflow/other resource taught you to try that? (provide a link to the documentation page or the stackoverflow thread) ]
+#### Show Us Your Code
 
-If you didn’t follow any documentation, didn’t make the google search and didn’t try asking AI you will be asked to go and try each of those methods of problem solving first.
-
-Examples:
-
-- ❌ Bad: Empty (no answer)
-- ❌ Bad: No
-- ❌ Bad: Yes (single word with no context)
-- ✅ Good:
-
-MDN: [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
-
-Stack Overflow: [https://stackoverflow.com/questions/27131773/my-links-arent-working-should-be-simple-fix](https://stackoverflow.com/questions/27131773/my-links-arent-working-should-be-simple-fix)
-
-Another resource: [https://www.pedalo.co.uk/broken-links/#:~:text=Links%20may%20be%20broken%20for,behind%20a%20password%20or%20firewall).](https://www.pedalo.co.uk/broken-links/#:~:text=Links%20may%20be%20broken%20for,behind%20a%20password%20or%20firewall)
-
-I also asked ChatGPT for help with the following prompt: "What could be possible reasons for the "a" anchor HTML Element to NOT let me get redirected to a proper destination from the href attribute value when the link is clicked."
-
-#### Reproducible Code
-
-> [ Share your code professionally (GitHub repo URL, StackBlitz project URL, Code snippet with syntax highlighting) ]
+> [ Share your code professionally (GitHub repo URL, StackBlitz project URL, Code snippet with syntax highlighting.) ]
 
 Please share your code professionally. Screenshots of the code, codeblocks without syntax highlighting and codepen links are not acceptable. Make sure to use one of the suggested methods.
 
