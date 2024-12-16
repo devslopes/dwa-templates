@@ -1,6 +1,6 @@
-# ASKING A CODE QUESTION TEMPLATE
+# Discord All-Questions Channel Question Template
 
-Asking a coding question professionally means adhering to the following steps:
+Asking a coding question professionally involves following these steps:
 
 1. Use a Clear and Descriptive Post Title
 2. Confirming the Development Environment You Are Using
@@ -9,7 +9,7 @@ Asking a coding question professionally means adhering to the following steps:
 5. Structure Your Question
 6. Show Us Your Code
 
-To follow those steps, we’ve created a template or questionnaire that you can copy and paste into your Discord post and follow the TEMPLATE requirements. This questionnaire is designed to help you use available problem-solving tools more efficiently, enabling you to resolve your questions quickly and handle most issues on your own effectively.
+We’ve crafted a simple template and questionnaire just for you! Copy and paste it into your Discord post, follow the TEMPLATE steps, and watch how it helps you tackle problems more efficiently!
 
 ## TEMPLATE to copy
 
