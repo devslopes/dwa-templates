@@ -24,7 +24,7 @@ Yes. No errors found.
 
 > Did you search through past questions (posts) in the channel to find the same problem? (Provide links to the threads that are similar to your issue)
 
-I found a thread with the images display error that is close to my problem. My code of the img element seems to follow the submitted version in that thread, but it still doesn't work.
+I found a thread with the images display error that is close to my problem. I double checked the path to image and it's all correct.
 
 [thread](https://discord.com/channels/747547219586056295/1299077051378307072)
 
@@ -38,7 +38,7 @@ I found the following stackoverflow thread: [thread](https://stackoverflow.com/q
 
 > Did you join the mentor’s call to get help on that issue? (Y/N)
 
-I joined Eric's meetup yesterday, and we touched on the docs page and attributes spelling. I synced all the "img" attribute names but it didn't solve my problem.
+I joined Eric's meetup yesterday, and we touched on the docs page an the folders naming in the path. I synced all the folder names but it didn't solve my problem.
 
 > Identify the Goal/What You Want to Happen
 
@@ -51,11 +51,11 @@ The broken image icon and the alternative text appears instead.
 > What Do You Think the Root Cause of the Blocker/Problem Is?
 
 I had an assumption it has to do with attribute name spelling, but it seem to NOT be a reason.
-The other assumption I had was about the folder names in the path or the file name, but they all are correct.
+The other assumption I had was about the folder names in the path or the file name, but they all are correct. It has to be something with the path.
 
 > What Potential Solutions Have You Tried? What Was The Result?
 
-I tried reordering the attributes in the opening tag but following the documentation and the HTML element anatomy lesson the order shouldn't matter.
+I tried reordering the attributes in the opening tag but following the documentation and the HTML element anatomy lesson the order shouldn't matter. More than that other images show up with the same order of attributes.
 
 > Show Us Your Code
 
