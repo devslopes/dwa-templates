@@ -1,4 +1,4 @@
-# Discord All-Questions Channel Question Template
+# Discord All-Questions Channel Environment/Setup Question Template
 
 Asking a software/environment question professionally involves following these steps:
 
