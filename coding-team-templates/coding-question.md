@@ -109,17 +109,16 @@ Examples:
 `Remove those that don't apply...`
 
 VSCode  
-Codepen  
-Notepad
+Stackblitz online IDE
+Other IDE or text editor
 
 Remove the items that you DID NOT use. If your answer is NOT VSCode you will be asked to move your code to VSCode and try to resolve your issue there first using available helpers and extensions.
 
 Examples:
 
 - ❌ Bad: Empty (no answer)
-- ❌ Bad: Codepen (or any other online IDE)
 - ❌ Bad: Notepad (or any other default text editor)
-- ✅ Great: VSCode (or any other local IDE set to work with HTML, CSS, JS, in other words dedicated to web development)
+- ✅ Great: VSCode (or any other IDE set to work with HTML, CSS, JS, in other words dedicated to web development)
 
 #### Basic Validation and Debugging Checks
 
