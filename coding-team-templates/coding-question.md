@@ -26,8 +26,8 @@ We’ve crafted a simple template and questionnaire just for you! Copy and paste
    `Remove those that don't apply...`
 
    - VSCode
-   - Codepen
-   - Notepad
+   - Stackblitz online IDE
+   - Other IDE or text editor
 
 3. Basic Validation and Debugging Checks
 
